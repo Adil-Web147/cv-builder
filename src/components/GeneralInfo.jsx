@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import "../styles/GeneralInfo.css";
+import "../styles/generalInfo.css";
 const GeneralInfo = ({generalInfo , setGeneralInfo}) => {
     const [edit,setEdit]=useState(true);
 
